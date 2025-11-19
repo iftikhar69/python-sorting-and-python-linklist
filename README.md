@@ -129,7 +129,7 @@ python-sorting-and-python-linklist/
 ---
 
 ## 🧑‍💻 Author
-**Iftikhar Ahmad**  
+**Iftikhar hussain**  
 💻 GitHub: [@iftikhar69](https://github.com/iftikhar69)
 
 ---
